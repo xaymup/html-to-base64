@@ -1,3 +1,5 @@
+# HTML to Base64
+
 A simple JS code for converting HTML to base64 written using ChatGPT.
 
 You can try it out by copying the following into your browser's address bar:
